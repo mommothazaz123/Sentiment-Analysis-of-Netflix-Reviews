@@ -130,4 +130,7 @@ dmypy.json
 data/dnd_raw/*.json
 data/raw/dnd*
 data/preprocessed/dnd*
+data/preprocessed/*_dnd_*
+**.pyc
+**.tfrecord
 
